@@ -4,7 +4,6 @@
 This repository contains a Policy-as-Code (PaC) framework designed to codify security and compliance controls for cloud environments.  
 The goal is to turn governance requirements into **automated, testable, enforceable policies** that integrate directly into CI/CD pipelines and cloud workflows.
 
----
 
 ## Objectives
 
